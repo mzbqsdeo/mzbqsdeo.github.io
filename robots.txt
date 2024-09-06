@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://mzbqsdeo.github.io/sitemap/sitemap.txt
